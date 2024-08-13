@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -18,21 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Angelyn R. Lao
-email: angelyn.lao[at]dlsu.edu.ph
+title: Samuel John E. Parreño
+email: samueljohn_parreno[at]umindanao.edu.ph
 description: >- # this means to ignore newlines until "baseurl:"
   This site is powered by Jekyll and GitHub Pages. Design was derived from the minima theme. Some icons were loaded from Font Awesome and Academicons.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://angelynlao.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://samjohnparr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-facebook_username: angelyn.lao
-github_username: angelynlao
-linkedin_username: angelyn-lao-69249a140
-scholar_username: pwzgQTwAAAAJ
-twitter_username:
-orcid_username: 0000-0003-3028-9610
-researchgate_username: Angelyn-Lao
-scopus_username: 34976916500
+facebook_username: samuel.john.beethoven
+github_username: samjohnparr
+linkedin_username: samuel-john-parreño-724175194
+scholar_username: vKgXpNMAAAAJ&hl
+twitter_username: samjohnparr
+orcid_username: 0000-0002-2230-8984
+researchgate_username: Samuel-John-Parreno
+scopus_username: 58621753800
 
 # Build settings
 theme: minima
