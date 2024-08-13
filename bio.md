@@ -5,7 +5,7 @@ permalink: /bio/
 ---
 ACADEMIC BACKGROUND
 
-2019 - Present &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **MSc in Applied Mathematics** <br> University of Southeastern Philippines, Davao City, Philippines <br> Deparment of Mathematics and Statistics <br> College of Arts and Science <br>  Supervisor: Prof. Dr. Eveyth Deligero <br>
+2019 - Present &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **MSc in Applied Mathematics** <br> University of Southeastern Philippines, Davao City, Philippines <br> Deparment of Mathematics and Statistics <br> College of Arts and Science <br>  Supervisor: Prof. Dr. Eveyth Deligero
 2014 - 2018 | **Bachelor of Secondary Education in Mathematics (Magna cum Laude)** <br> University of Mindanao Digos College, Digos, Philippines <br> Thesis title: “Performance of Indigenous in Different Arease in
 High School Mathematics” <br> Supervisors: Prof. Dr. Garnette Mae V. Balacy
 
