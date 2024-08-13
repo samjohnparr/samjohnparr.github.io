@@ -1,6 +1,3 @@
----
-layout: home
----
 <style>
 /* Create two unequal columns that float next to each other */
 .column {
@@ -10,6 +7,7 @@ layout: home
 .left {
   width: 600px;
   text-align: justify;
+  margin-right: 20px; /* Increase space between the text and the picture */
 }
 
 /* Add padding between paragraphs */
@@ -19,7 +17,7 @@ layout: home
 
 .right {
   width: 200px;
-  padding-left: 10px;
+  padding-left: 20px; /* Increase space between the picture and the text */
 }
 
 /* Make the image responsive and maintain aspect ratio */
