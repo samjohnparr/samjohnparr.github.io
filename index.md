@@ -34,6 +34,6 @@ layout: home
 		</p>
 	</div>
 	<div class="column right">
-		<img src='/assets/angelyn-lao.jpg' width='200' height='300' align='left' />
+		<img src='/assets/qqqee.jpg' width='200' height='300' align='left' />
 	</div>
 </div>
