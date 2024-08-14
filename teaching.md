@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## SPECIALIZATION COURSES
+## Specialization Courses
 
 | **Code**       | **Description**                                                                                           |
 | -------------- | ---------------------------------------------------------------------------------------------------- |
@@ -19,7 +19,7 @@ permalink: /teaching/
 | EDMT 1    | Teaching Mathematics to Primary Grades |
 | EDMATH 4    | Problem Solving |
 
-## PROFESSIONAL EDUCATION COURSES
+## Professional Education Courses
 
 | **Code**       | **Description**                                                                                           |
 | -------------- | ---------------------------------------------------------------------------------------------------- |
@@ -27,14 +27,14 @@ permalink: /teaching/
 | GED 322 | Curriculum Development |
 | EDUC 110    | The Teacher and the Community, School Culture, and Organizational Leadership |
 
-## GENERAL EDUCATION COURSES
+## General Education Courses
 
 | **Code**       | **Description**                                                                                           |
 | -------------- | ---------------------------------------------------------------------------------------------------- |
 | GE 4 | Mathematics in the Modern World |
 
 
-## SENIOR HIGH SCHOOL
+## Senior High School
 
 | **Subject**                                                                                               |
 | -------------- |
