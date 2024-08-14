@@ -39,7 +39,7 @@
     My research has resulted in several publications, where I have investigated the integration of chaos theory with machine learning to enhance the accuracy of forecasting and classification models. I also employ mathematical and computational models to study the spread of diseases, with the goal of providing insights vital for public health strategies. One of my key projects involves using persistent homology, a tool from topological data analysis, to analyze epidemiological data, aiming to detect early warning signals for disease outbreaks—a novel approach in epidemic forecasting.
     </p>
     <p>
-    I am a member of professional organizations and societies including the National Research Council of the Philippines (NRCP) under Division II - Mathematical Sciences, where I am an Associate Member. The National Research Council of the Philippines (NRCP), an attached agency to the Department of Science and Technology, is an advisory body to the Philippine Government on matters of national interest. environment.
+    I am a member of professional organizations and societies including the National Research Council of the Philippines (NRCP) under Division II - Mathematical Sciences, where I am an Associate Member. The National Research Council of the Philippines (NRCP), an attached agency to the Department of Science and Technology, is an advisory body to the Philippine Government on matters of national interest. 
     </p>
 	</div>
 	<div class="column right">
