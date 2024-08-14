@@ -28,7 +28,7 @@ permalink: /bio/
 
 | **Year**       | **Organization**                                                                                     |
 | -------------- | ---------------------------------------------------------------------------------------------------- |
-| 2024 - Present | **Associate Member, NRCP (National Research Council of the Philippines)**                            |
+| 2024 - Present | **Associate Member, NRCP (National Research Council of the Philippines)—Division II-Mathematical Sciences**                            |
 | 2023 - Present | **SIAM (Society for Industrial and Applied Mathematics)**                                            |
 | 2023 - Present | **Regular Member, Mathematical Society of the Philippines**                                          |
 | 2021 - 2022    | **Philippine Association of Researchers and Statistical Software Users, Inc.**                       |
