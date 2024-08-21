@@ -12,7 +12,7 @@ permalink: /teaching/
 | MATH 221    | Calculus 2 |
 | MATH 223    | Modern Geometry |
 | MATH 311    | Calculus 3 |
-| MATH 315    | Advanced Statistics |
+| MATH 313    | Advanced Statistics |
 | MATH 325    | Differential Equations |
 | MTH 321    | Problem Solving, Mathematical Investigation and Modeling |
 | IT 18    | Quantitative Methods |
@@ -25,6 +25,7 @@ permalink: /teaching/
 | -------------- | ---------------------------------------------------------------------------------------------------- |
 | GED 311 | Assessment of Learning 1 |
 | GED 322 | Curriculum Development |
+} EDUC 109 | Teaching Profession |
 | EDUC 110    | The Teacher and the Community, School Culture, and Organizational Leadership |
 
 ## General Education Courses
