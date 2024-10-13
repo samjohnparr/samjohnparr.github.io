@@ -15,6 +15,7 @@ permalink: /bio/
 
 | **Year**       | **Position**                                                                                          |
 | -------------- | ---------------------------------------------------------------------------------------------------- |
+| 2024 - Present | **Assistant Scholar** <br> Research and Publication Center <br> University of Mindanao Digos College, Digos City, Philippines |
 | 2019 - Present | **Adjunct Lecturer** <br> Mathematics Division, Department of Teacher Education <br> University of Mindanao Digos College, Digos City, Philippines |
 | 2019 - Present | **Special Science Teacher I** <br> Senior High School Department <br> Padada National High School, Northern Paligue, Padada, Davao del Sur |
 
