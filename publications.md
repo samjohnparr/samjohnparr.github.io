@@ -5,6 +5,11 @@ permalink: /publications/
 ---
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
+2025 <br>
+[**Forecasting Measles Incidence in the Philippines: A Comparative Analysis of SARIMA, Holt-Winters, ESN, and NNAR Models**](https://www.malque.pub/ojs/index.php/msj/article/view/2710) <br>
+<u>S.J. Parreño.</u> <br>
+*Multidisciplinary Science Journal 7 (7), 2025356-2025356.*
+
 2024 <br>
 [**Chaos Theory Enhanced LSTM Model of the Philippine Stock Exchange Index**](https://link.springer.com/article/10.1007/s42979-024-03160-1) <br>
 <u>S.J. Parreño.</u> <br>
