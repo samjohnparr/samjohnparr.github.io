@@ -38,3 +38,11 @@ permalink: /bio/
 | 2021 - 2022    | **Philippine Association of Researchers and Statistical Software Users, Inc.**                       |
 | 2020 - 2021    | **Mathematics Teachers Association of the Philippines - Tertiary Level, Inc.**                       |
 | 2019 - 2020    | **Philippine Association for Teachers and Educators**                                                |
+
+## CONFERENCES AND WORKSHOPS ATTENDED
+
+| **Year**       | **Conference/Workshop**                                                      | **Location**                    |
+| -------------- | ----------------------------------------------------------------------------- | ------------------------------- |
+| 2025           | 2025 International Workshop on Computational and Mathematical Methods in Data Science (CoMaDS 2025) | Boracay, Philippines           |
+| 2025           | 2025 NRCP Annual Scientific Conference                                        | PICC, Pasay, Philippines             |
+| 2023           | Mathematical Society of the Philippines Annual Convention                           | Ateneo de Manila University, Quezon City, Philippines        |
