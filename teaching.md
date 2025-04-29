@@ -17,6 +17,7 @@ permalink: /teaching/
 | MTH 321    | Problem Solving, Mathematical Investigation and Modeling |
 | IT 18    | Quantitative Methods |
 | EDMT 1    | Teaching Mathematics to Primary Grades |
+| EDMT 2    | Teaching Mathematics to Intermediate Grades |
 | EDMATH 4    | Problem Solving |
 
 ## Professional Education Courses
@@ -25,7 +26,7 @@ permalink: /teaching/
 | -------------- | ---------------------------------------------------------------------------------------------------- |
 | GED 311 | Assessment of Learning 1 |
 | GED 322 | Curriculum Development |
-} EDUC 109 | Teaching Profession |
+ EDUC 109 | Teaching Profession |
 | EDUC 110    | The Teacher and the Community, School Culture, and Organizational Leadership |
 
 ## General Education Courses
