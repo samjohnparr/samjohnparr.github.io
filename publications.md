@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Publications and Talks
 permalink: /publications/
 ---
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
@@ -80,3 +80,14 @@ permalink: /publications/
 <br>
 <u>S.J. Parreño.</u> <br>
 *International Journal on Soft Computing, Artificial Intelligence and Applications, 11(1/2), 25-33.*
+
+<i class="fa-regular fa-newspaper"></i> &nbsp; **Talks**
+
+[**East Asia Section of Society for Industrial & Applied Mathematics (EASIAM) Conference**]
+<br>
+<u>De La Salle University, Manila, Philippines</u> <br>
+<u>July 3, 2025</u> <br>
+<br>
+**Contributed Talk** <br>
+<br>
+*A Persistent Homology Approach to Early Warning Signals in Philippine Epidemiological Data*
