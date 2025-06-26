@@ -83,11 +83,11 @@ permalink: /publications/
 
 <i class="fa-regular fa-newspaper"></i> &nbsp; **Talks**
 
-[**East Asia Section of Society for Industrial & Applied Mathematics (EASIAM) Conference**]
+**East Asia Section of Society for Industrial & Applied Mathematics (EASIAM) Conference**
 <br>
 <u>De La Salle University, Manila, Philippines</u> <br>
 <u>July 3, 2025</u> <br>
 <br>
-**Contributed Talk** <br>
+Contributed Talk <br>
 <br>
 *A Persistent Homology Approach to Early Warning Signals in Philippine Epidemiological Data*
