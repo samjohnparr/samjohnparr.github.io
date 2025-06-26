@@ -43,6 +43,7 @@ permalink: /bio/
 
 | **Year**       | **Conference/Workshop**                                                      | **Location**                    |
 | -------------- | ----------------------------------------------------------------------------- | ------------------------------- |
+| 2025           | 18th East Asia Section of Society for Industrial & Applied Mathematics (EASIAM) Conference  | De La Salle University, Metro Manila, Philippines           |
 | 2025           | [**2025 International Workshop on Computational and Mathematical Methods in Data Science (CoMaDS 2025)**](https://comads.science.upd.edu.ph/)  | Boracay, Philippines           |
 | 2025           | 2025 NRCP Annual Scientific Conference                                        | PICC, Pasay, Philippines             |
 | 2023           | Mathematical Society of the Philippines Annual Convention                           | Ateneo de Manila University, Quezon City, Philippines        |
