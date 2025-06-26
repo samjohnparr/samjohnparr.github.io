@@ -83,9 +83,9 @@ permalink: /publications/
 
 <i class="fa-regular fa-newspaper"></i> &nbsp; **Talks**
 
+<strong> *A Persistent Homology Approach to Early Warning Signals in Philippine Epidemiological Data* </strong>
 **East Asia Section of Society for Industrial & Applied Mathematics (EASIAM) Conference**
 <br>
 <strong><i> Contributed Talk </i> </strong> <br>
 <i> De La Salle University, Manila, Philippines </i> <br>
 <i> July 3, 2025 </i> <br>
-*A Persistent Homology Approach to Early Warning Signals in Philippine Epidemiological Data*
