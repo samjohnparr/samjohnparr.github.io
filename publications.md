@@ -83,7 +83,7 @@ permalink: /publications/
 
 <i class="fa-regular fa-newspaper"></i> &nbsp; **Talks**
 
-<strong> *A Persistent Homology Approach to Early Warning Signals in Philippine Epidemiological Data* </strong>
+<strong> *A Persistent Homology Approach to Early Warning Signals in Philippine Epidemiological Data* </strong> <br>
 **East Asia Section of Society for Industrial & Applied Mathematics (EASIAM) Conference**
 <br>
 <strong><i> Contributed Talk </i> </strong> <br>
