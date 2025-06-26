@@ -87,7 +87,5 @@ permalink: /publications/
 <br>
 <u>De La Salle University, Manila, Philippines</u> <br>
 <u>July 3, 2025</u> <br>
-<br>
 Contributed Talk <br>
-<br>
 *A Persistent Homology Approach to Early Warning Signals in Philippine Epidemiological Data*
