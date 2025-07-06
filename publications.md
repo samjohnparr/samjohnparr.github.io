@@ -6,6 +6,10 @@ permalink: /publications/
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
 2025 <br>
+[**Examining gender disparities in dropout rates in the Philippines: a comparative analysis**](https://journals.sapienzaeditorial.com/index.php/SIJIS/article/view/954) <br>
+<u>S.J. Parreño, </u> M.C.J. Anter. <br>
+*Sapienza: International Journal of Interdisciplinary Studies 6 (2), e25027-e25027.*
+
 [**Forecasting Measles Incidence in the Philippines: A Comparative Analysis of SARIMA, Holt-Winters, ESN, and NNAR Models**](https://www.malque.pub/ojs/index.php/msj/article/view/2710) <br>
 <u>S.J. Parreño.</u> <br>
 *Multidisciplinary Science Journal 7 (7), 2025356-2025356.*
@@ -83,7 +87,7 @@ permalink: /publications/
 
 <i class="fa-regular fa-newspaper"></i> &nbsp; **Talks**
 
-<strong> *A Persistent Homology Approach to Early Warning Signals in Philippine Epidemiological Data* </strong> <br>
+<strong> *Mathematical and Computational Approaches to Modeling, Data, and Optimization in Complex Systems* </strong> <br>
 **East Asia Section of Society for Industrial & Applied Mathematics (EASIAM) Conference**
 <br>
 <strong><i> Contributed Talk </i> </strong> <br>
