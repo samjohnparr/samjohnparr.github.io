@@ -17,8 +17,7 @@ I provide part-time freelance services in data analysis, statistics, research su
 **Visualization and Dashboards:** Power BI, Tableau, Plotly (Python/R), ggplot2, Matplotlib  
 **Web and Static Sites:** Jekyll, Hugo, GitHub Pages, Netlify, Tailwind CSS, SEO fundamentals (meta/OG/sitemap)  
 **Data Operations and Reproducibility:** Git/GitHub, Jupyter, RMarkdown/Quarto, virtual environments (venv/conda), CSV/Excel/JSON  
-**Analytics Stack:** Excel (advanced), Google Sheets, Google Analytics, Plausible  
-**Collaboration and Project Management:** Notion, Trello, Asana, Google Workspace, Slack, Zoom
+**Analytics Stack:** Excel (advanced), Google Sheets, Google Analytics
 
 ---
 
