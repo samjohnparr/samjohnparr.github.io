@@ -4,7 +4,7 @@ title: Certificates
 permalink: /certificates/
 ---
 
-# Licenses and Certifications
+# Certifications
 
 Below are selected certifications I have earned in data science, analytics, and programming.  
 Credential links are provided for verification.
