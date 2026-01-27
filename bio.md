@@ -8,6 +8,7 @@ permalink: /bio/
 
 | **Year**       | **Degree**                                                                                           |
 | -------------- | ---------------------------------------------------------------------------------------------------- |
+| 2026 - Present | **Diploma in Mathematics Teaching** <br> University of the Philippines Open University, Laguna, Philippines <br> Faculty of Education |
 | 2019 - 2025 | **Master of Science in Applied Mathematics** <br> University of Southeastern Philippines, Davao City, Philippines <br> Department of Mathematics and Statistics <br> College of Arts and Sciences <br> Thesis title: “A Persistent Homology Approach to Early Warning Signals in Philippine Epidemioloigcal Data” <br> Supervisor: Prof. Dr. Eveyth Deligero |
 | 2014 - 2018    | **Bachelor of Secondary Education in Mathematics (Magna Cum Laude)** <br> University of Mindanao Digos College, Digos, Philippines <br> Department of Teacher Education <br> Thesis title: “Performance of Indigenous Students in Different Areas in High School Mathematics” <br> Supervisor: Prof. Dr. Garnette Mae V. Balacy |
 

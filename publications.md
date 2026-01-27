@@ -87,6 +87,13 @@ permalink: /publications/
 
 <i class="fa-regular fa-newspaper"></i> &nbsp; **Talks**
 
+<strong> *Computational Intelligence* </strong> <br>
+**18th International Conference on Knowledge and Smart Technology**
+<br>
+<strong><i> Contributed Talk </i> </strong> <br>
+<i> Health Land Resort & Spa, Pattaya, Chonburi Thailand</i> <br>
+<i> January 22, 2026 </i> <br>
+
 <strong> *Mathematical and Computational Approaches to Modeling, Data, and Optimization in Complex Systems* </strong> <br>
 **East Asia Section of Society for Industrial & Applied Mathematics (EASIAM) Conference**
 <br>
