@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-## Online Journal Entries
+## EDMT 208 - Online Journal Entries
 
 {% if site.posts.size == 0 %}
 No posts yet.
