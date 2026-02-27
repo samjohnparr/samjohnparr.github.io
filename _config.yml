@@ -65,3 +65,5 @@ header_pages:
   - students.md
   - teaching.md
   - blog.md
+
+future: true

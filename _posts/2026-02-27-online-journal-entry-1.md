@@ -2,7 +2,6 @@
 layout: post
 title: "Online Journal Entry 1: Mathematical Modelling in My Teaching Practice"
 date: 2026-02-27
-categories: [blog, journal]
 ---
 
 ### Key question I chose

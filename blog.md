@@ -6,6 +6,10 @@ permalink: /blog/
 
 ## Online Journal Entries
 
+{% if site.posts.size == 0 %}
+No posts yet.
+{% endif %}
+
 <ul>
   {% for post in site.posts %}
     <li>
