@@ -67,3 +67,10 @@ header_pages:
   - blog.md
 
 future: true
+
+timezone: Asia/Manila
+
+collections:
+  edmt208:
+    output: true
+    permalink: /blog/edmt-208/:path/
