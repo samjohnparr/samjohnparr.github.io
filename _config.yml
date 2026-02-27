@@ -56,3 +56,12 @@ theme: minima
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+header_pages:
+  - bio.md
+  - certificates.md
+  - publications.md
+  - services.md
+  - students.md
+  - teaching.md
+  - blog.md
