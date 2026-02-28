@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My First IEEE Research Conference Abroad: KST 2026 in Thailand"
-date: 2026-01-24
+date: 2026-02-24
 categories: [conference, ieee, travel]
 ---
 
