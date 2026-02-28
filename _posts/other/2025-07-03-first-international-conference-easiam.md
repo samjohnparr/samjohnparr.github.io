@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My First International Conference Presentation: EASIAM 2025 (De La Salle University)"
-date: 2025-07-03
+date: 2025-07-07
 categories: [conference, talks]
 ---
 
