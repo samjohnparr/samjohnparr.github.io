@@ -21,7 +21,7 @@ No EDMT 208 entries yet.
   {% endfor %}
 </ul>
 
-## Other Blog Posts
+## Beyond the Blackboard
 
 {% assign other_posts = site.posts | where_exp: "post", "post.course != 'EDMT 208'" %}
 
