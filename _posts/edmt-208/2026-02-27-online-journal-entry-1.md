@@ -41,7 +41,11 @@ In practice, this supports my plan to use spreadsheets or simple simulation tool
 ## What I hope changes in my students
 My goal is that students stop seeing Statistics as a list of disconnected procedures. I want them to experience it as “thinking with data.” When modelling is part of the lesson, students see why we define variables, why we need assumptions, and why interpretation matters as much as computation. They also learn a healthy habit of questioning results. If an answer looks unreasonable, that is not the end, it is a signal to revisit assumptions and improve the model, just like the modelling cycle suggests. 
 
-In the end, modelling is how I can make Statistics and Probability feel honest. Real life is messy, so our mathematics must be both disciplined and flexible. I think that is a powerful lesson to bring into a Grade 11 classroom.
+In the end, modelling is how I can make Statistics and Probability feel honest. 
+
+***Real life is messy, so our mathematics must be both disciplined and flexible.*** 
+
+I think that is a powerful lesson to bring into a Grade 11 classroom.
 
 ## References
 
