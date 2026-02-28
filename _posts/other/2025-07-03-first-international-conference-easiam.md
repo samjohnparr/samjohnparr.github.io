@@ -14,7 +14,8 @@ Walking into the venue, I felt that mix of excitement and nerves you get when yo
   <img src="/assets/blog/easiam-2025-presenting.jpg" alt="Me presenting at EASIAM 2025" style="width: 420px; max-width: 75%; height: auto;">
 </p>
 
-*Presenting my MS thesis work on persistent homology-based early warning signals.*
+<p style="text-align:center;"><em>Presenting my MS thesis work on persistent homology-based early warning signals</em></p>
+
 
 One thing I was really thankful for was being reunited with my MS classmate, Gio, who is now taking his PhD in Applied Mathematics at the **University of the Philippines Los Baños**. I was glad to have someone to talk to in my own language, **Bisaya**, especially in a setting where everything can feel formal and overwhelming. He has always been one of the smartest people I know, and catching up with him gave me confidence and comfort in the middle of a busy conference day.
 
@@ -22,8 +23,7 @@ One thing I was really thankful for was being reunited with my MS classmate, Gio
   <img src="/assets/blog/me_and_gio.jpg" alt="Me and Gio" style="width: 420px; max-width: 75%; height: auto;">
 </p>
 
-  *Me, Gio, and THE LEGENDARY Dr. Jomar F. Rabajante*
-
+<p style="text-align:center;"><em>Me, Gio, and THE LEGENDARY Dr. Jomar F. Rabajante</em></p>
 
 ## What I presented
 I presented my MS thesis titled:

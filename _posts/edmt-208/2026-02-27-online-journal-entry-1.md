@@ -43,7 +43,7 @@ My goal is that students stop seeing Statistics as a list of disconnected proced
 
 In the end, modelling is how I can make Statistics and Probability feel honest. 
 
-***Real life is messy, so our mathematics must be both disciplined and flexible.*** 
+<p style="text-align:center;"><em>Real life is messy, so our mathematics must be both disciplined and flexible.</em></p>
 
 I think that is a powerful lesson to bring into a Grade 11 classroom.
 
