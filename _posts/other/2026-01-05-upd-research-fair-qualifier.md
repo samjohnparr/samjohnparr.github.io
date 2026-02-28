@@ -18,7 +18,7 @@ And yet, there we were.
 <p style="text-align:center;">
   <img src="/assets/blog/upd-research-fair-2026.jpg" alt="Padada National High School at UP Diliman Research Fair 2026" style="width: 520px; max-width: 80%; height: auto;">
 </p>
-<p style="text-align:center; font-size: 0.95em;"><em>Padada National High School Senior High School participants, Research Fair 2026 at UP Diliman.</em></p>
+<p style="text-align:center; font-size: 0.95em;"><em>Padada National High School Senior High School participants, Research Fair 2026 at UP Diliman (January 15-17, 2026).</em></p>
 
 ## Why this meant so much to us
 This was not just a “research moment.” It was a student story.
