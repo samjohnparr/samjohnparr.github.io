@@ -16,9 +16,9 @@ categories: [conference, talks]
 This was my first international conference presentation. Walking into the venue and seeing faculty and researchers from East Asia, including Japan, China, South Korea, Taiwan, Singapore, Thailand, and the Philippines, made the experience both exciting and humbling. It reminded me that my work, even if grounded in Philippine data, participates in a wider research conversation.
 
 ## Photo from the presentation
-![Me presenting at EASIAM 2025](/assets/blog/easiam-2025-presenting.jpg)
+<img src="/assets/blog/easiam-2025-presenting.jpg" alt="Me presenting at EASIAM 2025" style="width: 420px; max-width: 75%; height: auto;">
 
-*Caption: “Presenting my MS thesis work on persistent homology-based early warning signals.”*
+*Presenting my MS thesis work on persistent homology-based early warning signals.*
 
 ## What I presented
 I presented my MS thesis titled:
