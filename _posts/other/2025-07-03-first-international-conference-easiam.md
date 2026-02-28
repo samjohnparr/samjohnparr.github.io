@@ -23,7 +23,7 @@ One thing I was really thankful for was being reunited with my MS classmate, Gio
   <img src="/assets/blog/me_and_gio.jpg" alt="Me and Gio" style="width: 420px; max-width: 75%; height: auto;">
 </p>
 
-<p style="text-align:center;"><em>Me, Gio, and THE LEGENDARY Dr. Jomar F. Rabajante</em></p>
+<p style="text-align:center;"><em>Me, THE LEGENDARY Dr. Jomar F. Rabajante, and Gio</em></p>
 
 ## What I presented
 I presented my MS thesis titled:
