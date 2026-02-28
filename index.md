@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /
+---
+
 <style>
 /* Create two unequal columns that float next to each other */
 .column {
