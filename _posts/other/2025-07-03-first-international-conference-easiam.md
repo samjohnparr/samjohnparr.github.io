@@ -28,7 +28,7 @@ One thing I was really thankful for was being reunited with my MS classmate, Gio
 ## What I presented
 I presented my MS thesis titled:
 
-**A Persistent Homology Approach to Early Warning Signals in Philippine Epidemiological Data**
+<p style="text-align:center;"><em>A Persistent Homology Approach to Early Warning Signals in Philippine Epidemiological Data</em></p>
 
 At the heart of the work is a practical problem: early detection of epidemic upswings remains difficult when surveillance time series are noisy, irregular, or affected by reporting artifacts. In real public health data, signals are rarely clean, and standard indicators can sometimes trigger late or raise false alarms.
 
