@@ -22,7 +22,7 @@ The biggest stress for me was the **Transcript of Records** issue. My university
 There was also the **DE Readiness Module (DERM)**. I was busy, and fitting it into my schedule was not easy. But looking back, those two struggles taught me something I needed. Time management. Multi-tasking. Discipline. I was rushing requirements more than once, but God carried me through each step.
 
 ## The people who helped me get here
-Two of my recommenders were my **Principal** and the **Dean** of the college where I part-time. After I got admitted, I messaged them. I wanted them to know, and I wanted to say thank you, because their support mattered.
+Two of my recommenders were my **Principal** and the **Dean** of the college in UM Digos where I part-time. After I got admitted, I messaged them. I wanted them to know, and I wanted to say thank you, because their support mattered.
 
 ## Seeing my UP student number and UP email
 Seeing my **UP student number** and later my official **UP email** made it feel real. It was joy, yes, but it also felt like responsibility.
@@ -32,7 +32,7 @@ I was also genuinely happy about the practical side. Having an official UP accou
 ## Why I chose to enroll now
 My first goal in the DMT program is simple. I want to become a **better teacher**.
 
-At the same time, I am still praying about the long-term direction. I have been torn between pursuing a PhD in Applied Mathematics, Data Informatics, Mathematics, or Mathematics Education. I do not want to rush that decision blindly.
+At the same time, I am still praying about the long-term direction. I have been torn between pursuing a PhD in Applied Mathematics, Data Informatics, Mathematics, or Mathematics Education either in UP or abroad. I do not want to rush that decision blindly.
 
 But I also did not want to be idle and just wait in vain. Instead, with the guidance and allowing of the Lord, I took a step that will strengthen me either way. I believe this program will help me grow, clarify my calling, and prepare me for what comes next.
 

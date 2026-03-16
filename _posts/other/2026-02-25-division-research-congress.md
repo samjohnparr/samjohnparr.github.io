@@ -7,7 +7,7 @@ categories: [research, deped, congress]
 
 On **February 25, 2026**, we joined the **2026 Division Research Congress** at the **Viewpoint Hotel, Digos City**. It was my first time participating in the Division Research Congress. I was not just attending. I was presenting.
 
-We arrived early, about **30 minutes before the program**. But as expected, the program started late, almost **an hour after** the posted time. So our first real moment that morning was simple. We went straight to the **registration line**. While waiting, I was already listing everything in my head. Posters, slides, demos, and the quiet prayer: Lord, please let everything work today.
+We arrived early, about **30 minutes before the program**. But as expected, the program started late, almost **an hour after** the posted time. We went straight to the **registration line**. While waiting, I was already listing everything in my head. Posters, slides, demos, and the quiet prayer: Lord, please let everything work today.
 
 <p style="text-align:center;">
   <img src="/assets/blog/division-research-congress-2026.jpg" alt="2026 Division Research Congress - Padada National High School" style="width: 520px; max-width: 80%; height: auto;">
@@ -33,12 +33,12 @@ But the part that tested us the most was not even the writing. It was the **sign
 
 That week, the Division research focal was out on official business. We really struggled to get his signature on the required sheets. For a moment, it felt like everything would be delayed. The pressure was real because one missing signature can stop everything, even if the study is already done.
 
-There was also a misunderstanding. He thought we were not submitting anymore, or that we submitted late. But by God’s grace, we were able to clutch it. We placed the **fully bound, complete paper** on his table. No excuses. No promises. The work was already there.
+There was also a misunderstanding at first. He thought we were not submitting anymore. Our submission was already past the ideal timing, but by God’s grace he still accepted it after seeing our effort and that the work was already complete. We placed the **fully bound, complete paper** on his table. No excuses. No promises. The work was there.
 
-That week taught me something. Sometimes the battle is not the research itself. Sometimes the battle is simply staying faithful to finish and submit, even when the process is hard.
+That week taught me something. Sometimes the battle is not the research itself. Sometimes the battle is simply staying faithful to finish and submit, even when the process is hard and the timing is tight.
 
-## Waiting for the TV and the accidental “everybody look” moment
-Our session started late because there was a **shortage of TVs** for presentations. We waited about **an hour** because the TV had to be fetched from another part of the hotel.
+## Waiting for the TV and the “everybody look” moment
+Our session started late because there was a **shortage of TVs** for presentations. We waited about **an hour** because the TV had to be fetched from another branch of the hotel.
 
 Then when it was finally our turn, my demo needed a speaker. I brought one.
 
@@ -61,7 +61,7 @@ We were humbled to receive recognitions and awards during the congress:
 - **Best Overall Oral Presentation:** Joe Faith C. Bernardino  
 - **Best Overall Slide Presentation:** Joe Faith C. Bernardino
 
-I will be honest. I felt that our papers would place somewhere. But I did not expect **Best Research Paper**. It was competitive, and the other papers were good too. That award felt like pure favor. It reminded me that when God gives something, it is not always because you expected it. Sometimes it is simply His kindness.
+I will be honest. I felt that our papers would place somewhere. But I did not expect **Best Research Paper**. It was competitive, and the other papers were good too. That award felt like pure favor. It reminded me that when God gives something, it is not always because you expected it. Sometimes it is simply His kindness and mercy.
 
 ## What stayed with me
 When the day ended, I felt tired, happy, and quietly grateful.
