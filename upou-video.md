@@ -4,8 +4,6 @@ title: UPOU Unit III Video
 permalink: /upou-video/
 ---
 
-## UPOU Unit III Video
-
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
   <iframe
     src="https://drive.google.com/file/d/12Jvh6Tz27kgS_AqS47_-wbyrtz2CFN8J/preview"
