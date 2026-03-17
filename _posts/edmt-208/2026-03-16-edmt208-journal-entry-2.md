@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EDMT 208 - Online Journal Entry 2: Ethnomathematics in My Teaching Practice"
-date: 2026-03-22
+date: 2026-03-18
 course: EDMT 208
 ---
 
