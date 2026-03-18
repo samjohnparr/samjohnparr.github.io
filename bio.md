@@ -46,6 +46,7 @@ permalink: /bio/
 | **Year**       | **Conference/Workshop**                                                      | **Venue**                    |
 | -------------- | ----------------------------------------------------------------------------- | ------------------------------- |
 | 2026           | [**18th International Conference on Knowledge and Smart Technology**](https://kst.buu.ac.th/2026new/)  | Health Land Resort & Spa, Pattaya, Chonburi, Thailand           |
+| 2025           | 2025 Annual Scientific Conference and 23rd Mindanao Regional Cluster Assembly                           | Social Hall, University of Southeastern Philippines, Davao City        |
 | 2025           | [**18th East Asia Section of Society for Industrial & Applied Mathematics (EASIAM) Conference**](https://easiam2025inmanila.github.io/easiam2025inmanila/)  | De La Salle University, Metro Manila, Philippines           |
 | 2025           | [**2025 International Workshop on Computational and Mathematical Methods in Data Science (CoMaDS 2025)**](https://comads.science.upd.edu.ph/)  | Boracay, Philippines           |
 | 2025           | 2025 NRCP Annual Scientific Conference                                        | PICC, Pasay, Philippines             |
