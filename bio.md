@@ -24,6 +24,7 @@ permalink: /bio/
 
 | **Year** | **Award**                                                                                                  |
 | -------- | ---------------------------------------------------------------------------------------------------------- |
+| 2026     | **Best Research Paper** <br> 2026 Division Research Congress <br> Department of Education - Division of Davao del Sur                  |
 | 2018     | **Top 1** <br> Licensure Examination for Teachers <br> Professional Regulation Commission                  |
 | 2016 - 2018     | **Junior Level Science Scholarship (JLSS) Scholar** <br> Department of Science and Technology <br> Philippines                  |
 | 2014 - 2016     | **CHED Merit Scholarship Program (CMSP) Scholar** <br> Commission on Higher Education  <br> Philippines                  |
