@@ -5,6 +5,23 @@ permalink: /publications/
 ---
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
+2026 <br>
+[**Uncertainty‑Aware Sepsis Survival Prediction Using Conformal XGBoost on Minimal Clinical Features Under Sepsis‑3 Criteria**](https://www.sciencedirect.com/science/article/pii/S0169260726001835) <br>
+<u>S.J. Parreño. </u> <br>
+*Computer Methods and Programs in Biomedicine 283 (15), 109429.*
+
+[**Enhanced prediction of chronic kidney disease onset through machine learning techniques**](https://ijeecs.iaescore.com/index.php/IJEECS/article/view/38316) <br>
+<u>S.J. Parreño, </u> M.C.J. Anter. <br>
+*Indonesian Journal of Electrical Engineering and Computer Science (IJEECS) 41 (3), 966-976.*
+
+[**A Novel Grey Model with Persistent Homology-Based Feature with Its Applications**](https://journals.sagepub.com/doi/abs/10.1177/18758967261435704) <br>
+<u>S.J. Parreño. </u> <br>
+*Journal of Intelligent & Fuzzy Systems: Applications in Engineering and Technology.*
+
+[**A Hybrid Topological Data Analysis Neural Network Framework for Chronic Kidney Disease Prediction**](https://ieeexplore.ieee.org/abstract/document/11432397/) <br>
+<u>S.J.E. Parreño. </u>
+*In 2026 18th International Conference on Knowledge and Smart Technology (KST), 162-167.*
+
 2025 <br>
 [**Examining gender disparities in dropout rates in the Philippines: a comparative analysis**](https://journals.sapienzaeditorial.com/index.php/SIJIS/article/view/954) <br>
 <u>S.J. Parreño, </u> M.C.J. Anter. <br>
