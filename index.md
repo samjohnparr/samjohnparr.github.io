@@ -35,7 +35,7 @@ permalink: /
 <div class="row">
 	<div class="column left">
 		<p>
-    Samuel John E. Parreño is a Special Science Teacher I at Padada National High School—Senior High School Department and an Adjunct Associate Professor 1 in the Mathematics Division, Department of Teacher Education at the University of Mindanao Digos College (UMDC). My career is marked by a commitment to both teaching and research, with a focus on Computational Biology, Machine Learning, Persistent Homology, and Time Series Analysis.
+    <strong> Samuel John E. Parreño </strong> is a Special Science Teacher I at Padada National High School—Senior High School Department and an Adjunct Associate Professor 1 in the Mathematics Division, Department of Teacher Education at the University of Mindanao Digos College (UMDC). My career is marked by a commitment to both teaching and research, with a focus on Computational Biology, Machine Learning, Persistent Homology, and Time Series Analysis.
     </p>
     <p>
     I obtained my Bachelor's Degree in Secondary Education, majoring in Mathematics, from UMDC, where I built a strong foundation in mathematical theory and its practical applications. I finished my MS degree in Applied Mathematics at the University of Southeastern Philippines, concentrating on developing mathematical methodologies that address real-world challenges. Currently, I am earning a Diploma in Mathematics Teaching at the University of the Philippines Open University. My academic pursuits explore the intersection of mathematics and computational techniques, particularly as they apply to biological systems and epidemiological data.
