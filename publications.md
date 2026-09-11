@@ -6,6 +6,10 @@ permalink: /publications/
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
 2026 <br>
+[**Equity benchmarking for essential WASH services: Inequality and rank mobility across Philippine regions**](https://www.sciencedirect.com/science/article/pii/S0957178726001293) <br>
+<u>S.J. Parreño. </u> <br>
+*Utilities Policy 102, 102270.*
+
 [**Uncertainty‑Aware Sepsis Survival Prediction Using Conformal XGBoost on Minimal Clinical Features Under Sepsis‑3 Criteria**](https://www.sciencedirect.com/science/article/pii/S0169260726001835) <br>
 <u>S.J. Parreño. </u> <br>
 *Computer Methods and Programs in Biomedicine 283 (15), 109429.*

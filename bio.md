@@ -25,6 +25,7 @@ permalink: /bio/
 
 | **Year** | **Award**                                                                                                  |
 | -------- | ---------------------------------------------------------------------------------------------------------- |
+| 2026     | **Most Promising Researcher** <br>  University of Mindanao <br> Philippines                  |
 | 2026     | **Best Research Paper** <br> 2026 Division Research Congress <br> Department of Education - Division of Davao del Sur                  |
 | 2018     | **Top 1** <br> Licensure Examination for Teachers <br> Professional Regulation Commission                  |
 | 2016 - 2018     | **Junior Level Science Scholarship (JLSS) Scholar** <br> Department of Science and Technology <br> Philippines                  |
@@ -34,6 +35,7 @@ permalink: /bio/
 
 | **Year**       | **Organization**                                                                                     |
 | -------------- | ---------------------------------------------------------------------------------------------------- |
+| 2026 - Present | **Graduate Student Member, Institute of Electrical and Electronics Engineers** 
 | 2024 - Present | **Associate Member, NRCP (National Research Council of the Philippines)—Division II-Mathematical Sciences**                            |
 | 2023 - Present | **SIAM (Society for Industrial and Applied Mathematics)**                                            |
 | 2023 - Present | **Regular Member, Mathematical Society of the Philippines** |
@@ -46,6 +48,7 @@ permalink: /bio/
 
 | **Year**       | **Conference/Workshop**                                                      | **Venue**                    |
 | -------------- | ----------------------------------------------------------------------------- | ------------------------------- |
+| 2026           | [**13th IEEE Symposium on Industrial Electronics & Applications**](https://www.ihsanyassin.com/cms/conference.php?conf_short_name=isiea2026)  | Concorde Hotel, Kuala Lumpur, Malaysia           |
 | 2026           | [**18th International Conference on Knowledge and Smart Technology**](https://kst.buu.ac.th/2026new/)  | Health Land Resort & Spa, Pattaya, Chonburi, Thailand           |
 | 2025           | 2025 Annual Scientific Conference and 23rd Mindanao Regional Cluster Assembly                           | Social Hall, University of Southeastern Philippines, Davao City        |
 | 2025           | [**18th East Asia Section of Society for Industrial & Applied Mathematics (EASIAM) Conference**](https://easiam2025inmanila.github.io/easiam2025inmanila/)  | De La Salle University, Metro Manila, Philippines           |
